@@ -1,9 +1,21 @@
+How is the Source?
+
 git commit suicide .. failed .. you can't commit suicide without a message.
+
 chote chote COMMIT se bade bade LOG hote rehte hai.
+
+commit kiya hai, push bhi karenge..aye repo tere liye.
+
+har merge ki ek dawa hoti hai.
+
+maine PR kiya.
+
+push karo khush raho.
 
 COMMIT miyan to COMMIT miyan , MESSAGE miyan to subhan allah.
 
 PR se de rahein MERGE kar lo !!
 
 Errors saying - Mujhe ASSIGN karne ke baad tum muje PR karoge , fir dekhna milne ki tum mujhse fariyaad karoge !!
+
 
