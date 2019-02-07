@@ -1,2 +1,7 @@
+How is the Source?
 git commit suicide .. failed .. you can't commit suicide without a message.
 chote chote COMMIT se bade bade LOG hote rehte hai.
+commit kiya hai, push bhi karenge..aye repo tere liye.
+har merge ki ek dawa hoti hai.
+maine PR kiya.
+push karo khush raho.
