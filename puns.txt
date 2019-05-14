@@ -16,7 +16,9 @@ PR se de rahein hai, MERGE kar lo!
 
 ek ISSUE solve karne ki keemat tum kya jaano ramesh babu!
 
+kaal kare se aaj kar, aaj kare so ab. Jaldi changes push karde, band na ho jaye GitHub.
 
+koi commit chhota nahi hota, aur commit se bada koi push nahi hota.
 
 
 
