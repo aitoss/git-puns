@@ -12,4 +12,4 @@ Git puns/jokes. Some referencing to bollywood dialogues and movie titles.
 
 a good deed is never lost
 
- bollyhood dialogues are better than hollywood.
+ Bollywood dialogues are better than hollywood.
