@@ -9,3 +9,5 @@ Git puns/jokes. Some referencing to bollywood dialogues and movie titles.
 * Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
 
 >A day wihout laughter is a day wasted. -charlie chaplin
+
+a good deed is never lost
