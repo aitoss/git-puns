@@ -20,7 +20,7 @@ kaal kare se aaj kar, aaj kare so ab. Jaldi changes push karde, band na ho jaye 
 
 koi commit chhota nahi hota, aur commit se bada koi push nahi hota.
 
-
+ek baar maine COMMIT kar di phir mai pull ki bhi nahi sunta.
 
 
 
