@@ -11,3 +11,5 @@ Git puns/jokes. Some referencing to bollywood dialogues and movie titles.
 >A day wihout laughter is a day wasted. -charlie chaplin
 
 a good deed is never lost
+
+ bollyhood dialogues are better than hollywood.
