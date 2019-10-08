@@ -20,6 +20,8 @@ kaal kare se aaj kar, aaj kare so ab. Jaldi changes push karde, band na ho jaye 
 
 koi commit chhota nahi hota, aur commit se bada koi push nahi hota.
 
+commit kia hai to, pyare push bhi kar lo, kya pta, ek push badalde apki zindagi
+
 
 
 
