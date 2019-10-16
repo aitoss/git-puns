@@ -22,6 +22,8 @@ koi commit chhota nahi hota, aur commit se bada koi push nahi hota.
 
 Pushpa, I hate errors.
 
+aao kabhi haveli pe. Tumhari pull request bhi accept kar denge 
+
 
 
 
