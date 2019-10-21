@@ -23,12 +23,3 @@ koi commit chhota nahi hota, aur commit se bada koi push nahi hota.
 If you have anything staged, commit now or stash forever
 
 What is the most loyal tool of a programmer? Git, because of its COMMITment!
-
-
-
-
-
-
-
-
-
