@@ -19,6 +19,11 @@ ek ISSUE solve karne ki keemat tum kya jaano ramesh babu!
 kaal kare se aaj kar, aaj kare so ab. Jaldi changes push karde, band na ho jaye GitHub.
 
 koi commit chhota nahi hota, aur commit se bada koi push nahi hota.
+<<<<<<< HEAD
+
+Pushpa, I hate errors.
+=======
+>>>>>>> cc2b4759d1b98667ed4c863fcbf724babd8a1b1e
 
 commit kia hai to, pyare push bhi kar lo, kya pta, ek push badalde apki zindagi
 
