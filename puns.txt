@@ -34,3 +34,7 @@ It's hard to have a git discussions. You need to commit to it.
 If you have anything staged, commit now or stash forever
 
 What is the most loyal tool of a programmer? Git, because of its COMMITment!
+
+Did you Git it?
+
+PR se PR tk
